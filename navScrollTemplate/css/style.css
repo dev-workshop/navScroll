@@ -22,3 +22,25 @@ nav{
     box-sizing: border-box;
     padding: 0 10px;
 }
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+.section{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    padding-top: 90px;
+}
+
+#section1{
+    background-color: burlywood;
+}
+
+#section3{
+    background-color: aquamarine;
+}
